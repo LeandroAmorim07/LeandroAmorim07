@@ -53,9 +53,7 @@
 
 ###
 
-<br clear="both">
 
-<img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN5cmxkZjVrNDVmaGRzYzJiazY4bWo3Z2NkcmFwcXp5dGM5dXgzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GjDecCEEGJb82Tcm8B/giphy.gif"  />
 
 ###
 
