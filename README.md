@@ -59,6 +59,6 @@
 
 ###
 
-![snake gif](https://github.com/LeandroAmorim07/LeandroAmorim07/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LeandroAmorim07/LeandroAmorim07/blob/output/github-snake-dark.svg)
 
-###
+##
